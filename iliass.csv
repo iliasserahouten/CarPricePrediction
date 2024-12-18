@@ -1,0 +1,409 @@
+Mileage,Power,Transmission,Fuel,Drive_type,Doors,Seats,CO2_emissions,Engine_capacity,Emission_class,Year,Make,Body,Interior_material,price,Link
+50,129.0,0,1,0,1,5,112.0,1199.0,3,2024,Opel,SUV / offroad,Cloth interior,30099,/car/69886900/opel-grandland-1-2-ultimate-96-kw
+77000,138.0,1,1,0,1,5,121.0,1332.0,3,2022,Nissan,SUV / offroad,Other interior material,22049,/car/69886132/nissan-qashqai-dig-t-acenta-103-kw
+69326,70.0,1,1,0,0,5,88.0,1000.0,2,2020,Fiat,Cargo VAN,Other interior material,13599,/car/69886050/fiat-500c-52-kw
+10,177.0,0,1,1,1,5,162.0,1598.0,3,2024,Kia,SUV / offroad,Full leather interior,36799,/car/69886030/kia-sportage-1-6-132-kw
+10,99.0,0,1,0,1,5,111.0,1199.0,3,2024,Jeep,SUV / offroad,Cloth interior,34199,/car/69885724/jeep-avenger-1-2-74-kw
+11583,257.0,0,2,0,1,5,24.0,1477.0,3,2023,Lynk & Co,SUV / offroad,Cloth interior,32049,/car/69885098/lynk-co-01-phev-192-kw
+75754,148.0,0,0,0,1,5,119.0,1968.0,2,2020,Škoda,Station Wagon,Cloth interior,24149,/car/69884593/skoda-octavia-combi-2-0-tdi-110-kw
+10,90.0,1,1,0,1,5,127.0,999.0,1,2024,Dacia,Hatchback,Cloth interior,18149,/car/69884378/dacia-sandero-stepway-tce-essential-67-kw
+31300,109.0,0,1,0,1,5,110.0,999.0,3,2021,Seat,Hatchback,Cloth interior,19299,/car/69884356/seat-ibiza-1-0-tsi-dsg-style-81-kw
+1233,168.0,1,0,0,1,3,281.0,1950.0,1,2024,Mercedes-Benz,Cargo VAN,Cloth interior,65749,/car/69884140/mercedes-benz-sprinter-317-cdi-125-kw
+18801,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69884130/opel-corsa-1-2-96-kw
+159566,192.0,0,0,1,1,5,143.0,1950.0,1,2021,Mercedes-Benz,Sedans / saloons,Other interior material,27649,/car/69884088/mercedes-benz-c-220-d-143-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35149,/car/69883864/skoda-octavia-combi-110-kw
+100,101.0,1,1,1,0,2,173.0,1462.0,2,2024,Suzuki,Coupe,Cloth interior,34199,/car/69883609/suzuki-jimny-75-kw
+8363,99.0,1,1,0,1,5,98.0,1199.0,3,2022,Opel,Hatchback,Cloth interior,17299,/car/69883476/opel-corsa-1-2-elegance-74-kw
+114000,178.0,0,0,0,1,2,155.0,1997.0,1,2017,Peugeot,Cargo VAN,Full leather interior,17049,/car/69883042/peugeot-expert-2-0-bluehdi-133-kw
+3619,194.0,0,1,0,1,5,150.0,1969.0,3,2024,Volvo,SUV / offroad,Full leather interior,42649,/car/69882823/volvo-xc40-b4-ultra-dark-145-kw
+32054,192.0,0,0,0,1,5,168.0,1950.0,1,2020,Mercedes-Benz,Station Wagon,Other interior material,40549,/car/69882774/mercedes-benz-e-220-d-t-143-kw
+2,122.0,1,1,0,1,5,108.0,999.0,1,2024,Ford,Station Wagon,Cloth interior,30399,/car/69882267/ford-focus-1-0-st-line-91-kw
+22863,201.0,0,0,1,1,5,120.0,1968.0,2,2023,Audi,Station Wagon,Other interior material,46699,/car/69881795/audi-a4-40-tdi-quattro-s-line-avant-150-kw
+1,114.0,0,1,0,1,5,112.0,999.0,3,2024,Audi,Hatchback,Other interior material,31599,/car/69881761/audi-a1-30-tfsi-s-tronic-sportback-85-kw
+10,70.0,1,1,0,1,5,116.0,1193.0,3,2024,Mitsubishi,Hatchback,Cloth interior,14749,/car/69880454/mitsubishi-space-star-52-kw
+10,148.0,0,1,0,1,5,126.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,34499,/car/69880123/skoda-karoq-tsi-dsg-110-kw
+10,148.0,0,1,0,1,5,129.0,1498.0,1,2023,Seat,SUV / offroad,Cloth interior,33749,/car/69879943/seat-ateca-1-5-tsi-dsg-fr-110-kw
+86533,201.0,0,0,0,1,5,124.0,1968.0,2,2020,Audi,Station Wagon,Full leather interior,35099,/car/69879579/audi-a6-40-tdi-avant-150-kw
+20,188.0,0,0,1,1,6,208.0,1950.0,1,2024,Mercedes-Benz,MPV/VAN,Cloth interior,63799,/car/69879513/mercedes-benz-v-250d-4matic-140-kw
+6,156.0,0,1,0,1,5,141.0,1332.0,1,2024,Nissan,SUV / offroad,Full leather interior,36299,/car/69877446/nissan-qashqai-1-3-dig-t-mhev-tekna-xtronic-116-kw
+6,156.0,0,1,0,1,5,141.0,1332.0,1,2024,Nissan,SUV / offroad,Full leather interior,36299,/car/69877446/nissan-qashqai-1-3-dig-t-mhev-tekna-xtronic-116-kw
+6,156.0,0,1,0,1,5,141.0,1332.0,1,2024,Nissan,SUV / offroad,Full leather interior,36299,/car/69877446/nissan-qashqai-1-3-dig-t-mhev-tekna-xtronic-116-kw
+30430,315.0,0,2,1,1,5,147.0,1991.0,3,2020,Mercedes-Benz,Sedans / saloons,Full leather interior,45799,/car/69877242/mercedes-benz-e-300-e-amg-235-kw
+0,99.0,1,1,0,1,5,97.0,1199.0,1,2024,Peugeot,Hatchback,Part leather interior,25649,/car/69876819/peugeot-208-puretech-100-allure-74-kw
+7000,101.0,1,1,0,0,5,122.0,1500.0,3,2023,Suzuki,Coupe,Other interior material,31499,/car/69876626/suzuki-jimny-1-5-75-kw
+173512,114.0,1,1,0,1,5,109.0,999.0,1,2017,Škoda,Station Wagon,Other interior material,10849,/car/69876505/skoda-octavia-1-0-tsi-85-kw
+10,99.0,0,1,0,1,5,99.0,1199.0,3,2024,Opel,Hatchback,Cloth interior,20849,/car/69876416/opel-corsa-1-2-turbo-74-kw
+47865,161.0,0,0,0,1,7,198.0,1950.0,3,2021,Mercedes-Benz,MPV/VAN,Cloth interior,51249,/car/69876309/mercedes-benz-v-220d-edition-1-120-kw
+13157,70.0,1,1,0,1,4,89.0,999.0,1,2021,Fiat,Hatchback,Cloth interior,10699,/car/69876198/fiat-panda-cross-1-0-hybrid-city-52-kw
+29500,148.0,0,0,1,1,7,133.0,1968.0,1,2023,Volkswagen,SUV / offroad,Cloth interior,39449,/car/69876101/volkswagen-tiguan-allspace-2-0-tdi-dsg-4motion-110-kw
+80700,228.0,0,0,1,1,5,187.0,1995.0,1,2021,BMW,SUV / offroad,Full leather interior,56899,/car/69876029/bmw-x5-xdrive25d-170-kw
+53719,72.0,1,1,0,1,5,135.0,999.0,1,2020,Dacia,Hatchback,Other interior material,11799,/car/69876019/dacia-sandero-sce-75-comfort-54-kw
+51747,326.0,0,1,0,1,5,183.0,2000.0,2,2020,Maserati,Sedans / saloons,Other interior material,55399,/car/69875968/maserati-ghibli-2-0-243-kw
+35000,188.0,0,0,1,1,6,229.0,1950.0,2,2020,Mercedes-Benz,MPV/VAN,Cloth interior,62149,/car/69875780/mercedes-benz-v-250d-edition-1-4matic-140-kw
+10,114.0,0,1,0,1,5,111.0,999.0,3,2024,Volkswagen,SUV / offroad,Cloth interior,26699,/car/69875717/volkswagen-taigo-85-kw
+24720,449.0,0,2,1,1,5,34.0,1969.0,3,2024,Volvo,Sedans / saloons,Part leather interior,47849,/car/69875608/volvo-s60-t8-ultimate-awd-recharge-335-kw
+7,190.0,0,0,1,1,5,143.0,1968.0,1,2024,Volkswagen,SUV / offroad,Part leather interior,50999,/car/69875548/volkswagen-tiguan-2-0-tdi-4motion-dsg-142-kw
+10,188.0,0,1,1,1,5,175.0,1984.0,3,2024,Cupra,SUV / offroad,Cloth interior,42649,/car/69875489/cupra-ateca-2-0-tsi-4drive-140-kw
+10,188.0,0,1,1,1,5,175.0,1984.0,3,2024,Cupra,SUV / offroad,Cloth interior,42649,/car/69875489/cupra-ateca-2-0-tsi-4drive-140-kw
+46578,197.0,0,0,1,1,5,140.0,1968.0,1,2021,Škoda,SUV / offroad,Full leather interior,38399,/car/69875333/skoda-kodiaq-2-0-tdi-sportline-4x4-dsg-147-kw
+86000,257.0,0,2,0,1,5,41.0,1477.0,3,2020,Volvo,SUV / offroad,Cloth interior,27799,/car/69874681/volvo-xc40-recharge-192-kw
+86637,188.0,0,0,1,1,5,162.0,2143.0,2,2020,Alfa Romeo,SUV / offroad,Part leather interior,26749,/car/69874573/alfa-romeo-stelvio-q4-super-140-kw
+56460,123.0,1,1,0,1,5,119.0,998.0,3,2021,Ford,SUV / offroad,Part leather interior,18299,/car/69874465/ford-ecosport-1-0-ecoboost-titanium-92-kw
+10,71.0,1,1,0,1,4,108.0,998.0,3,2024,Toyota,SUV / offroad,Cloth interior,19399,/car/69874284/toyota-aygo-x-1-0-53-kw
+43500,101.0,0,1,0,0,4,122.0,1499.0,1,2018,MINI,Hatchback,Cloth interior,16399,/car/69874021/mini-one-75-kw
+0,134.0,0,1,0,1,5,127.0,1199.0,3,2024,Citroën,SUV / offroad,Part leather interior,33649,/car/69873917/citroen-c5-aircross-hybrid-plus-100-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,33399,/car/69873682/skoda-octavia-combi-tdi-dsg-110-kw
+24976,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69873563/opel-corsa-1-2-96-kw
+10000,148.0,0,1,0,1,5,121.0,1498.0,1,2024,Audi,SUV / offroad,Other interior material,34699,/car/69873288/audi-q2-35-tfsi-s-tronic-advanced-110-kw
+10,148.0,0,1,0,1,5,115.0,1498.0,3,2024,Cupra,Station Wagon,Cloth interior,35099,/car/69873285/cupra-leon-sportstourer-1-5-etsi-dsg-110-kw
+10,71.0,0,1,0,1,4,112.0,998.0,3,2024,Toyota,SUV / offroad,Cloth interior,18349,/car/69872916/toyota-aygo-x-1-0-53-kw
+24621,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69871472/opel-corsa-1-2-96-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,2,2024,Jeep,SUV / offroad,Cloth interior,28049,/car/69870994/jeep-avenger-1-2-74-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,2,2024,Jeep,SUV / offroad,Cloth interior,28049,/car/69870994/jeep-avenger-1-2-74-kw
+18000,114.0,0,0,0,1,5,120.0,1496.0,1,2023,BMW,Hatchback,Other interior material,35549,/car/69870152/bmw-116d-85-kw
+27201,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69869391/opel-corsa-1-2-96-kw
+26962,134.0,0,0,0,1,5,123.0,1598.0,1,2022,Kia,SUV / offroad,Other interior material,26849,/car/69869219/kia-sportage-1-6-crdi-2wd-100-kw
+62741,161.0,0,1,0,1,5,165.0,1497.0,3,2021,SsangYong,Coupe,Other interior material,19249,/car/69869193/ssangyong-tivoli-120-kw
+22859,148.0,1,1,0,1,5,123.0,1498.0,3,2023,Škoda,SUV / offroad,Other interior material,25999,/car/69869096/skoda-karoq-1-5-tsi-act-ambition-110-kw
+145000,118.0,0,0,0,1,5,117.0,1499.0,1,2020,Ford,Sedans / saloons,Other interior material,13899,/car/69868995/ford-focus-1-5-ecoblue-88-kw
+35435,68.0,1,1,0,0,4,88.0,999.0,1,2023,Fiat,Hatchback,Cloth interior,13899,/car/69868890/fiat-500-1-0-51-kw
+15,62.0,1,1,0,1,4,97.0,998.0,3,2024,Hyundai,Hatchback,Cloth interior,18349,/car/69868730/hyundai-i10-1-0-select-46-kw
+20,138.0,0,1,0,1,5,142.0,1482.0,1,2024,Kia,Hatchback,Part leather interior,32799,/car/69867802/kia-proceed-103-kw
+20,138.0,0,1,0,1,5,142.0,1482.0,1,2024,Kia,Hatchback,Part leather interior,32799,/car/69867802/kia-proceed-103-kw
+21620,109.0,1,1,0,1,5,109.0,999.0,3,2023,Škoda,Hatchback,Other interior material,19549,/car/69867395/skoda-scala-1-0-tsi-ambition-81-kw
+25020,109.0,1,1,0,1,5,109.0,999.0,3,2023,Škoda,Hatchback,Other interior material,19549,/car/69867282/skoda-scala-1-0-tsi-ambition-81-kw
+136334,188.0,0,0,0,1,5,114.0,1995.0,1,2018,BMW,Station Wagon,Full leather interior,24149,/car/69867178/bmw-520d-touring-140-kw
+25000,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69866886/opel-corsa-1-2-96-kw
+91911,114.0,1,0,0,1,5,105.0,1968.0,2,2020,Audi,Hatchback,Full leather interior,23349,/car/69866084/audi-a3-30-tdi-85-kw
+132800,134.0,0,0,0,1,5,166.0,2143.0,1,2019,Mercedes-Benz,Station Wagon,Full leather interior,19049,/car/69865283/mercedes-benz-cla-200-shooting-brake-d-100-kw
+64121,114.0,0,1,0,1,5,116.0,999.0,2,2020,Škoda,Hatchback,Cloth interior,19549,/car/69864674/skoda-scala-1-0-tsi-dsg-85-kw
+25573,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69864515/opel-corsa-1-2-96-kw
+23626,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69864147/opel-corsa-1-2-96-kw
+24621,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69863653/opel-corsa-1-2-96-kw
+19000,148.0,0,0,1,1,5,126.0,1995.0,1,2020,BMW,SUV / offroad,Full leather interior,30899,/car/69863189/bmw-x1-xdrive18d-110-kw
+27201,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69863085/opel-corsa-1-2-96-kw
+96500,114.0,1,1,0,1,5,112.0,999.0,2,2019,Volkswagen,Hatchback,Other interior material,17549,/car/69862683/volkswagen-golf-1-0-85-kw
+10,129.0,1,1,1,1,5,137.0,1199.0,1,2024,Dacia,SUV / offroad,Cloth interior,33399,/car/69861969/dacia-duster-tce-130-96-kw
+17914,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69861216/opel-corsa-1-2-96-kw
+27932,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69860679/opel-corsa-1-2-96-kw
+23626,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69860661/opel-corsa-1-2-96-kw
+51000,553.0,0,2,1,1,4,49.0,2894.0,3,2021,Porsche,Station Wagon,Full leather interior,105199,/car/69860071/porsche-panamera-4-s-e-hybrid-412-kw
+24855,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69859826/opel-corsa-1-2-96-kw
+115000,188.0,0,0,1,1,5,146.0,1968.0,1,2020,Audi,SUV / offroad,Cloth interior,35399,/car/69859623/audi-q3-40-tdi-quattro-s-tronic-140-kw
+15,138.0,1,2,0,1,5,108.0,1482.0,1,2024,Hyundai,Sedans / saloons,Cloth interior,26199,/car/69859528/hyundai-i30-t-gdi-103-kw
+15,138.0,1,2,0,1,5,108.0,1482.0,1,2024,Hyundai,Sedans / saloons,Cloth interior,26199,/car/69859528/hyundai-i30-t-gdi-103-kw
+25573,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69859189/opel-corsa-1-2-96-kw
+111000,114.0,0,0,0,1,5,122.0,1598.0,2,2020,Škoda,SUV / offroad,Other interior material,23949,/car/69858911/skoda-karoq-1-6-tdi-dsg-85-kw
+61800,148.0,1,1,0,1,5,123.0,1496.0,2,2018,Ford,Sedans / saloons,Cloth interior,18599,/car/69858720/ford-focus-1-5-ecoboost-active-110-kw
+109000,118.0,1,0,0,1,5,98.0,1499.0,1,2020,Ford,Station Wagon,Cloth interior,13899,/car/69857996/ford-focus-1-5-ecoblue-88-kw
+23938,148.0,1,1,0,1,5,123.0,1498.0,3,2023,Škoda,SUV / offroad,Other interior material,25999,/car/69857854/skoda-karoq-1-5-tsi-act-ambition-110-kw
+20,138.0,0,1,0,1,5,142.0,1482.0,1,2024,Kia,Hatchback,Part leather interior,32799,/car/69857566/kia-proceed-103-kw
+20,138.0,0,1,0,1,5,142.0,1482.0,1,2024,Kia,Hatchback,Part leather interior,32799,/car/69857566/kia-proceed-103-kw
+67000,197.0,0,1,0,1,5,136.0,1984.0,3,2020,Audi,Hatchback,Part leather interior,29299,/car/69856720/audi-a1-40-tfsi-s-tronic-s-line-147-kw
+3875,577.0,0,1,1,1,4,301.0,3982.0,3,2023,Mercedes-Benz,Coupe,Full leather interior,151449,/car/69856416/mercedes-benz-amg-gt-63-4matic-430-kw
+0,162.0,0,1,0,1,5,159.0,1998.0,3,2024,Mazda,Sedans / saloons,Full leather interior,40549,/car/69856375/mazda-6-121-kw
+39000,74.0,1,1,0,1,5,93.0,1199.0,1,2020,Opel,Hatchback,Other interior material,12899,/car/69856161/opel-corsa-1-2-elegance-55-kw
+10,138.0,0,2,0,1,5,89.0,1798.0,2,2024,Toyota,Station Wagon,Cloth interior,30999,/car/69855460/toyota-corolla-1-8-hybrid-touring-sports-103-kw
+21336,109.0,1,1,0,1,5,109.0,999.0,3,2023,Škoda,Hatchback,Other interior material,19049,/car/69854590/skoda-scala-1-0-tsi-ambition-81-kw
+19268,221.0,0,2,0,1,5,39.0,1598.0,3,2022,Citroën,SUV / offroad,Other interior material,26649,/car/69852370/citroen-c5-aircross-165-kw
+64121,114.0,0,1,0,1,5,116.0,999.0,2,2020,Škoda,Hatchback,Cloth interior,19549,/car/69852101/skoda-scala-1-0-tsi-dsg-85-kw
+128300,148.0,0,0,0,1,5,133.0,1968.0,1,2021,Škoda,SUV / offroad,Other interior material,31049,/car/69852046/skoda-kodiaq-2-0-tdi-dsg-style-110-kw
+174,99.0,1,1,0,1,5,129.0,1199.0,2,2024,Jeep,SUV / offroad,Other interior material,21099,/car/69851928/jeep-avenger-1-2-74-kw
+10,282.0,0,0,1,1,5,184.0,2967.0,1,2024,Volkswagen,SUV / offroad,Full leather interior,84999,/car/69851399/volkswagen-touareg-3-0-tdi-4motion-210-kw
+25,127.0,1,1,1,1,5,132.0,1400.0,1,2024,Suzuki,SUV / offroad,Cloth interior,27099,/car/69851263/suzuki-sx4-s-cross-s-cross-1-4-comfort-allgrip-95-kw
+15,89.0,1,1,0,1,5,135.0,999.0,1,2024,Dacia,Sedans / saloons,Cloth interior,19749,/car/69851233/dacia-logan-66-kw
+24218,188.0,0,1,1,1,5,145.0,1984.0,3,2024,Volkswagen,SUV / offroad,Part leather interior,36299,/car/69851209/volkswagen-t-roc-2-0-tsi-4motion-dsg-140-kw
+10,201.0,0,0,1,1,5,180.0,1968.0,1,2024,Volkswagen,Cargo VAN,Cloth interior,80799,/car/69851181/volkswagen-t6-california-tdi-beach-camper-4motion-dsg-150-kw
+5,114.0,0,1,0,1,2,134.0,1498.0,3,2024,Volkswagen,Cargo VAN,Cloth interior,37999,/car/69851058/volkswagen-caddy-cargo-maxi-85-kw
+10,114.0,1,1,0,1,5,111.0,999.0,3,2024,Volkswagen,SUV / offroad,Cloth interior,25499,/car/69851020/volkswagen-taigo-1-0-tsi-85-kw
+3000,129.0,1,1,0,1,5,157.0,1332.0,3,2024,Nissan,Cargo VAN,Other interior material,28899,/car/69850836/nissan-townstar-1-3-dig-t-96-kw
+0,123.0,1,1,0,1,5,151.0,999.0,1,2024,Ford,MPV/VAN,Other interior material,25399,/car/69850655/ford-tourneo-courier-1-0-ecoboost-92-kw
+10,98.0,0,1,0,1,5,111.0,998.0,3,2024,Hyundai,Sedans / saloons,Cloth interior,27499,/car/69850647/hyundai-i30-73-kw
+10,148.0,0,1,0,1,5,141.0,1332.0,1,2024,Dacia,SUV / offroad,Cloth interior,28249,/car/69850644/dacia-duster-tce-150-edc-110-kw
+10,129.0,1,1,1,1,5,137.0,1199.0,1,2024,Dacia,SUV / offroad,Other interior material,32799,/car/69850505/dacia-duster-tce-130-96-kw
+55200,138.0,0,1,0,1,5,132.0,1333.0,1,2021,Renault,SUV / offroad,Cloth interior,23399,/car/69850450/renault-arkana-1-3-103-kw
+10,83.0,1,1,0,1,5,116.0,1197.0,1,2023,Kia,SUV / offroad,Cloth interior,18549,/car/69850332/kia-stonic-1-2-edition-7-62-kw
+0,114.0,0,2,0,1,5,91.0,1490.0,1,2024,Toyota,Hatchback,Cloth interior,27249,/car/69850007/toyota-yaris-hybrid-85-kw
+2,114.0,1,1,0,1,5,122.0,999.0,1,2024,Seat,SUV / offroad,Cloth interior,26999,/car/69849848/seat-ateca-1-0-tsi-reference-85-kw
+10,148.0,0,1,0,1,5,141.0,1332.0,1,2024,Dacia,SUV / offroad,Cloth interior,28249,/car/69849765/dacia-duster-tce-150-edc-110-kw
+10,148.0,0,1,0,1,5,116.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,29999,/car/69849620/skoda-kamiq-1-5-tsi-dsg-110-kw
+10,123.0,1,1,0,1,5,151.0,999.0,1,2024,Ford,MPV/VAN,Cloth interior,27599,/car/69849553/ford-tourneo-courier-titanium-92-kw
+60400,369.0,0,1,1,1,5,172.0,2998.0,3,2021,BMW,Sedans / saloons,Full leather interior,56949,/car/69849473/bmw-340i-xdrive-275-kw
+15,78.0,1,1,0,1,5,116.0,1197.0,3,2024,Kia,SUV / offroad,Cloth interior,22549,/car/69849156/kia-stonic-1-2-vision-58-kw
+10561,204.0,0,1,0,1,5,128.0,1984.0,3,2023,Volkswagen,Hatchback,Cloth interior,27849,/car/69849068/volkswagen-polo-gti-dsg-152-kw
+10,237.0,0,0,1,1,5,265.0,2993.0,3,2024,Ford,Pick-up,Full leather interior,60199,/car/69849045/ford-ranger-wildtrak-177-kw
+0,114.0,0,1,0,1,5,116.0,999.0,1,2024,Škoda,Hatchback,Cloth interior,25399,/car/69848740/skoda-scala-monte-carlo-85-kw
+10,138.0,0,1,0,1,5,29.0,1482.0,1,2024,Kia,SUV / offroad,Part leather interior,27549,/car/69848585/kia-xceed-103-kw
+19,109.0,1,0,0,1,3,181.0,1997.0,1,2024,Renault,Cargo VAN,Cloth interior,32049,/car/69848437/renault-trafic-dci-81-kw
+10,148.0,0,1,0,1,5,116.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,32099,/car/69848380/skoda-kamiq-1-5-tsi-dsg-monte-carlo-110-kw
+2,129.0,1,0,0,0,3,167.0,1995.0,1,2023,Ford,Cargo VAN,Cloth interior,38649,/car/69848279/ford-transit-l3h2-trend-96-kw
+1500,148.0,0,0,0,1,5,123.0,1968.0,1,2023,Seat,SUV / offroad,Cloth interior,38249,/car/69848127/seat-ateca-2-0-tdi-dsg-fr-110-kw
+10,329.0,0,1,1,1,5,165.0,1984.0,3,2024,Volkswagen,Hatchback,Cloth interior,47699,/car/69848126/volkswagen-golf-r-4motion-dsg-245-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,3,2024,Cupra,SUV / offroad,Cloth interior,44849,/car/69848098/cupra-ateca-2-0-tsi-dsg-4drive-221-kw
+0,148.0,0,1,0,1,5,133.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,43949,/car/69848014/volkswagen-tiguan-1-5-tsi-dsg-110-kw
+15,148.0,0,1,0,1,5,118.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,30799,/car/69847918/volkswagen-t-cross-1-5-tsi-dsg-110-kw
+15,118.0,0,1,0,1,5,111.0,998.0,1,2023,Hyundai,SUV / offroad,Full leather interior,30999,/car/69847841/hyundai-kona-1-0-t-gdi-n-line-88-kw
+10,282.0,0,0,1,1,5,184.0,2967.0,1,2024,Volkswagen,SUV / offroad,Full leather interior,80799,/car/69847536/volkswagen-touareg-3-0-tdi-4motion-210-kw
+20,148.0,0,1,0,1,5,116.0,1498.0,1,2024,Škoda,Hatchback,Cloth interior,31949,/car/69847020/skoda-scala-1-5-tsi-monte-carlo-dsg-110-kw
+15,99.0,1,1,0,1,5,114.0,999.0,3,2023,Ford,Hatchback,Cloth interior,20449,/car/69846894/ford-fiesta-1-0-ecoboost-s-s-titanium-74-kw
+34232,99.0,1,0,0,1,2,112.0,1498.0,2,2023,Ford,Cargo VAN,Other interior material,16699,/car/69846890/ford-transit-courier-s-s-trend-74-kw
+146000,103.0,1,0,0,1,5,167.0,1995.0,1,2022,Ford,Cargo VAN,Cloth interior,19399,/car/69846763/ford-transit-custom-l2h1-2-0-tdci-77-kw
+10,261.0,0,1,0,1,5,151.0,1984.0,3,2024,Volkswagen,Hatchback,Cloth interior,44549,/car/69846688/volkswagen-golf-dsg-195-kw
+10,99.0,0,1,0,1,5,99.0,1199.0,3,2024,Opel,Hatchback,Cloth interior,20849,/car/69881804/opel-corsa-1-2-turbo-74-kw
+30708,90.0,1,1,0,1,5,122.0,999.0,3,2023,Renault,SUV / offroad,Other interior material,19399,/car/69881478/renault-captur-tce-equilibre-67-kw
+18,196.0,0,1,0,1,5,124.0,1598.0,3,2024,Hyundai,SUV / offroad,Cloth interior,33599,/car/69881219/hyundai-kona-1-6-dct-146-kw
+10,99.0,0,1,0,1,5,99.0,1199.0,3,2024,Opel,Hatchback,Cloth interior,20849,/car/69881054/opel-corsa-1-2-turbo-74-kw
+53719,72.0,1,1,0,1,5,135.0,999.0,1,2020,Dacia,Hatchback,Other interior material,11799,/car/69879335/dacia-sandero-sce-75-54-kw
+27162,129.0,0,1,0,1,5,99.0,1199.0,3,2023,Opel,Hatchback,Other interior material,19599,/car/69879157/opel-corsa-1-2-96-kw
+2611,83.0,1,1,0,1,5,105.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,17799,/car/69879016/hyundai-i10-1-2-62-kw
+0,201.0,0,0,1,1,5,126.0,1968.0,1,2024,Audi,Station Wagon,Other interior material,72249,/car/69878606/audi-a4-allroad-40-tdi-quattro-150-kw
+16000,68.0,1,1,0,1,4,116.0,999.0,2,2024,Fiat,Hatchback,Other interior material,14749,/car/69878333/fiat-panda-1-0-hybrid-51-kw
+11000,207.0,0,0,1,1,5,157.0,2143.0,2,2024,Alfa Romeo,SUV / offroad,Other interior material,50149,/car/69877764/alfa-romeo-stelvio-2-2-q4-154-kw
+62741,161.0,0,1,0,1,5,165.0,1497.0,3,2021,SsangYong,Coupe,Other interior material,19249,/car/69866720/ssangyong-tivoli-120-kw
+20,148.0,0,1,0,1,5,115.0,1498.0,3,2024,Cupra,Station Wagon,Cloth interior,37149,/car/69839943/cupra-leon-sportstourer-1-5-etsi-dsg-110-kw
+10,148.0,0,1,1,1,5,125.0,1498.0,1,2024,Cupra,SUV / offroad,Cloth interior,35849,/car/69839831/cupra-ateca-110-kw
+0,114.0,0,2,0,1,5,101.0,1490.0,1,2024,Toyota,SUV / offroad,Cloth interior,31799,/car/69839798/toyota-yaris-cross-1-5-hybrid-85-kw
+10,138.0,1,0,0,1,3,209.0,2184.0,1,2024,Fiat,Cargo VAN,Cloth interior,32699,/car/69839648/fiat-ducato-35-140-103-kw
+15,129.0,1,1,0,1,7,160.0,1330.0,1,2024,Renault,Cargo VAN,Part leather interior,32399,/car/69839628/renault-kangoo-grand-tce-130-equilibre-96-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69839429/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69839429/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+5,99.0,1,1,0,1,5,104.0,998.0,3,2024,Hyundai,Hatchback,Cloth interior,21999,/car/69839381/hyundai-i20-1-0-t-gdi-74-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69839276/kia-sportage-1-6-t-gdi-vision-118-kw
+10,621.0,0,1,1,1,4,263.0,3996.0,1,2024,Audi,Sedans / saloons,Full leather interior,137899,/car/69839248/audi-rs7-4-0-tfsi-quattro-sportback-performance-463-kw
+35000,123.0,1,1,0,1,5,99.0,999.0,2,2022,Ford,SUV / offroad,Other interior material,24099,/car/69839194/ford-puma-1-0-ecoboost-st-line-x-92-kw
+80700,306.0,0,1,1,1,5,160.0,1984.0,1,2018,Volkswagen,Hatchback,Cloth interior,28349,/car/69839110/volkswagen-golf-r-dsg-4motion-228-kw
+15,212.0,0,2,0,1,5,109.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,39449,/car/69839105/hyundai-tucson-1-6-t-gdi-n-158-kw
+15,212.0,0,2,0,1,5,109.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,39449,/car/69839105/hyundai-tucson-1-6-t-gdi-n-158-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Velour interior,46699,/car/69839070/cupra-ateca-2-0-tsi-dsg-221-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Velour interior,46699,/car/69839070/cupra-ateca-2-0-tsi-dsg-221-kw
+4001,188.0,0,0,0,1,5,131.0,1995.0,1,2024,BMW,Sedans / saloons,Other interior material,56349,/car/69838912/bmw-420d-gran-coupe-140-kw
+72650,114.0,1,1,0,1,5,152.0,1590.0,2,2019,Mitsubishi,SUV / offroad,Cloth interior,14949,/car/69838851/mitsubishi-asx-1-6-85-kw
+23005,148.0,0,1,0,1,5,123.0,1498.0,3,2024,Volkswagen,SUV / offroad,Part leather interior,32049,/car/69838837/volkswagen-t-roc-1-5-tsi-dsg-110-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69838778/kia-sportage-1-6-t-gdi-vision-118-kw
+64621,123.0,1,1,0,1,5,99.0,999.0,2,2022,Ford,SUV / offroad,Other interior material,22049,/car/69838617/ford-puma-1-0-ecoboost-st-line-x-92-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69838586/kia-sportage-1-6-t-gdi-vision-118-kw
+10,148.0,0,1,0,1,5,123.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,32499,/car/69838444/volkswagen-t-roc-1-5-tsi-dsg-110-kw
+20,90.0,1,1,0,1,5,122.0,999.0,1,2023,Renault,SUV / offroad,Cloth interior,21699,/car/69838421/renault-captur-tce-90-equilibre-67-kw
+129000,103.0,1,0,0,1,5,165.0,1995.0,1,2019,Ford,Cargo VAN,Cloth interior,15299,/car/69838392/ford-transit-custom-l1h1-2-0-tdci-77-kw
+100,158.0,1,1,0,1,5,108.0,1482.0,2,2024,Hyundai,Sedans / saloons,Cloth interior,23849,/car/69838360/hyundai-i30-118-kw
+10,148.0,0,0,0,1,5,126.0,1968.0,1,2024,Volkswagen,MPV,Velour interior,35549,/car/69838281/volkswagen-golf-plus-dsg-110-kw
+0,190.0,0,0,1,1,5,143.0,1968.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,57149,/car/69838225/volkswagen-tiguan-2-0-tdi-r-line-4motion-dsg-142-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69838185/skoda-octavia-combi-110-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69838185/skoda-octavia-combi-110-kw
+52370,221.0,0,2,0,1,5,26.0,2488.0,2,2021,Ford,SUV / offroad,Other interior material,25249,/car/69838096/ford-kuga-2-5-st-line-cvt-165-kw
+16556,148.0,0,1,0,1,7,148.0,1498.0,3,2024,Volkswagen,MPV,Cloth interior,38399,/car/69837883/volkswagen-touran-dsg-110-kw
+13302,99.0,1,1,0,1,5,98.0,1199.0,3,2023,Opel,Hatchback,Cloth interior,21499,/car/69837820/opel-corsa-74-kw
+22291,188.0,0,2,0,1,5,118.0,2488.0,2,2022,Ford,SUV / offroad,Other interior material,27349,/car/69837644/ford-kuga-140-kw
+48487,129.0,0,0,0,1,5,100.0,1499.0,2,2020,Peugeot,SUV / offroad,Other interior material,22149,/car/69837611/peugeot-2008-1-5-bluehdi-130-eat8-96-kw
+17466,68.0,1,1,0,0,4,88.0,999.0,2,2023,Fiat,Hatchback,Other interior material,15649,/car/69837547/fiat-500-1-0-51-kw
+68431,68.0,1,1,0,0,5,88.0,999.0,1,2020,Fiat,Cargo VAN,Other interior material,13699,/car/69837463/fiat-500c-51-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69837451/kia-sportage-1-6-t-gdi-vision-118-kw
+18775,68.0,1,2,0,1,4,90.0,999.0,1,2021,Lancia,Hatchback,Other interior material,13399,/car/69837199/lancia-ypsilon-51-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69837087/kia-sportage-1-6-t-gdi-vision-118-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69837055/volkswagen-taigo-1-0-tsi-dsg-85-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69837055/volkswagen-taigo-1-0-tsi-dsg-85-kw
+10,621.0,0,1,1,1,4,263.0,3996.0,1,2024,Audi,Sedans / saloons,Full leather interior,137899,/car/69837029/audi-rs7-4-0-tfsi-quattro-sportback-performance-463-kw
+44598,188.0,0,1,1,1,5,166.0,1984.0,1,2020,Audi,SUV / offroad,Other interior material,39699,/car/69836992/audi-q3-40-tfsi-quattro-s-tronic-s-line-140-kw
+10,188.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Cloth interior,40049,/car/69836956/cupra-ateca-2-0-tsi-4drive-dsg-140-kw
+10,148.0,0,1,0,1,5,126.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,36899,/car/69836698/skoda-karoq-1-5-tsi-dsg-110-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69836696/kia-sportage-1-6-t-gdi-vision-118-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69836626/volkswagen-taigo-1-0-tsi-dsg-85-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69836626/volkswagen-taigo-1-0-tsi-dsg-85-kw
+92500,308.0,0,0,0,0,4,153.0,2993.0,1,2015,BMW,Cargo VAN,Cloth interior,35649,/car/69836603/bmw-640d-cabrio-230-kw
+63000,103.0,1,0,0,1,5,167.0,1995.0,1,2021,Ford,Cargo VAN,Cloth interior,21499,/car/69836553/ford-transit-custom-l1h1-2-0-tdci-trend-77-kw
+18,90.0,1,1,0,1,5,122.0,999.0,3,2024,Renault,SUV / offroad,Cloth interior,22649,/car/69836544/renault-captur-equilibre-67-kw
+10,114.0,1,1,0,1,5,111.0,999.0,3,2024,Volkswagen,SUV / offroad,Cloth interior,25499,/car/69832501/volkswagen-taigo-1-0-tsi-85-kw
+40885,121.0,0,2,0,1,5,29.0,1798.0,2,2019,Toyota,Sedans / saloons,Cloth interior,23799,/car/69832355/toyota-prius-1-8-hybrid-90-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69832349/volkswagen-taigo-1-0-tsi-dsg-85-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69832349/volkswagen-taigo-1-0-tsi-dsg-85-kw
+0,148.0,0,1,0,1,5,133.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,43949,/car/69832348/volkswagen-tiguan-1-5-tsi-dsg-110-kw
+25,127.0,1,1,1,1,5,132.0,1400.0,1,2024,Suzuki,SUV / offroad,Cloth interior,27099,/car/69832339/suzuki-sx4-s-cross-s-cross-1-4-comfort-allgrip-95-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,3,2024,Cupra,SUV / offroad,Cloth interior,44849,/car/69832297/cupra-ateca-2-0-tsi-dsg-4drive-221-kw
+10,196.0,0,1,0,1,5,124.0,1199.0,1,2024,Renault,SUV / offroad,Other interior material,52099,/car/69832254/renault-austral-146-kw
+0,78.0,1,1,0,1,5,112.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,17549,/car/69832219/hyundai-i20-1-2-58-kw
+92700,114.0,1,0,0,1,5,102.0,1968.0,3,2022,Volkswagen,Station Wagon,Other interior material,22349,/car/69832113/volkswagen-golf-variant-2-0-tdi-life-85-kw
+72000,101.0,1,0,0,1,5,86.0,1499.0,1,2021,Citroën,Hatchback,Cloth interior,15449,/car/69832030/citroen-c3-bluehdi-100-75-kw
+94958,107.0,0,0,0,1,2,123.0,1461.0,1,2018,Renault,Cargo VAN,Cloth interior,21599,/car/69832028/renault-kangoo-dci-110-80-kw
+10,114.0,0,1,0,1,5,113.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,29999,/car/69832011/volkswagen-t-cross-1-0-tsi-dsg-life-85-kw
+10,148.0,1,1,0,1,5,113.0,1498.0,3,2023,Škoda,SUV / offroad,Cloth interior,27749,/car/69831966/skoda-kamiq-110-kw
+2,114.0,1,1,0,1,5,122.0,999.0,1,2024,Seat,SUV / offroad,Cloth interior,26999,/car/69831913/seat-ateca-1-0-tsi-reference-85-kw
+63495,129.0,1,0,0,1,3,157.0,1996.0,1,2021,Ford,Cargo VAN,Other interior material,21099,/car/69831847/ford-transit-350-l3h2-trend-96-kw
+10,282.0,0,0,1,1,5,184.0,2967.0,1,2024,Volkswagen,SUV / offroad,Full leather interior,80799,/car/69831816/volkswagen-touareg-3-0-tdi-4motion-210-kw
+99000,282.0,0,0,1,1,5,171.0,2967.0,1,2020,Audi,Sedans / saloons,Other interior material,49099,/car/69831367/audi-a8-50-tdi-quattro-tiptronic-210-kw
+15,78.0,1,1,0,1,5,105.0,1197.0,1,2024,Hyundai,Hatchback,Cloth interior,18699,/car/69831362/hyundai-i10-1-2-58-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69831333/skoda-octavia-combi-110-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69831333/skoda-octavia-combi-110-kw
+65938,221.0,0,2,0,1,5,26.0,2488.0,2,2021,Ford,SUV / offroad,Other interior material,25249,/car/69831260/ford-kuga-2-5-st-line-cvt-165-kw
+99898,148.0,0,0,1,1,5,158.0,1950.0,2,2020,Mercedes-Benz,SUV / offroad,Full leather interior,31099,/car/69831167/mercedes-benz-glb-200-d-4matic-110-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,1,2024,Jeep,SUV / offroad,Other interior material,23349,/car/69831064/jeep-avenger-1-2-74-kw
+51000,103.0,1,0,0,1,5,167.0,1995.0,1,2021,Ford,Cargo VAN,Cloth interior,22499,/car/69830975/ford-transit-custom-l1h1-2-0-tdci-trend-77-kw
+0,129.0,1,1,0,1,5,141.0,1199.0,1,2024,Dacia,SUV / offroad,Cloth interior,25749,/car/69830945/dacia-duster-tce-130-journey-96-kw
+0,190.0,0,0,1,1,5,143.0,1968.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,56599,/car/69830769/volkswagen-tiguan-2-0-tdi-r-line-4motion-dsg-142-kw
+50,138.0,1,1,0,1,5,142.0,1482.0,1,2024,Kia,Station Wagon,Cloth interior,26399,/car/69830680/kia-ceed-sportswagon-103-kw
+10,148.0,0,0,0,1,5,126.0,1968.0,1,2024,Volkswagen,MPV,Velour interior,35549,/car/69830581/volkswagen-golf-plus-dsg-110-kw
+89000,82.0,1,1,0,1,5,97.0,1199.0,1,2020,Citroën,Hatchback,Cloth interior,12399,/car/69830550/citroen-c3-pure-tech-s-s-shine-61-kw
+43000,109.0,1,1,0,1,5,119.0,999.0,1,2021,Volkswagen,SUV / offroad,Other interior material,19649,/car/69830183/volkswagen-t-roc-1-0-tsi-t-roc-81-kw
+10,114.0,1,1,0,1,5,111.0,999.0,3,2024,Volkswagen,SUV / offroad,Cloth interior,25499,/car/69830099/volkswagen-taigo-1-0-tsi-85-kw
+0,78.0,1,1,0,1,5,112.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,17549,/car/69830080/hyundai-i20-1-2-58-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Velour interior,46699,/car/69829977/cupra-ateca-2-0-tsi-dsg-221-kw
+20,296.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Velour interior,46699,/car/69829977/cupra-ateca-2-0-tsi-dsg-221-kw
+20,109.0,1,1,0,1,7,131.0,999.0,1,2024,Dacia,MPV,Cloth interior,25549,/car/69829951/dacia-jogger-tce-110-extreme-81-kw
+1,483.0,0,2,1,1,5,195.0,2995.0,1,2024,Audi,SUV / offroad,Full leather interior,119399,/car/69829903/audi-q7-60-tfsie-quattro-360-kw
+20,99.0,1,1,0,1,5,104.0,998.0,1,2024,Hyundai,Hatchback,Cloth interior,24099,/car/69829862/hyundai-i20-74-kw
+0,129.0,1,1,0,1,5,141.0,1199.0,1,2024,Dacia,SUV / offroad,Cloth interior,25749,/car/69829777/dacia-duster-tce-130-journey-96-kw
+0,114.0,0,1,0,1,5,116.0,999.0,1,2024,Škoda,Hatchback,Cloth interior,25399,/car/69829712/skoda-scala-monte-carlo-85-kw
+10,261.0,0,1,0,1,5,151.0,1984.0,3,2024,Volkswagen,Hatchback,Cloth interior,44549,/car/69829588/volkswagen-golf-dsg-195-kw
+18,90.0,1,1,0,1,5,122.0,999.0,3,2024,Renault,SUV / offroad,Cloth interior,22649,/car/69829465/renault-captur-equilibre-67-kw
+133500,103.0,1,0,0,1,5,167.0,1995.0,1,2020,Ford,Cargo VAN,Cloth interior,16349,/car/69829014/ford-transit-custom-l1h1-2-0-tdci-trend-77-kw
+53435,109.0,1,1,0,1,5,109.0,999.0,1,2023,Seat,SUV / offroad,Cloth interior,20299,/car/69828962/seat-arona-1-0-tsi-fr-81-kw
+10,148.0,0,1,0,1,7,148.0,1498.0,1,2024,Volkswagen,MPV,Cloth interior,41999,/car/69828889/volkswagen-touran-dsg-110-kw
+15,148.0,0,1,0,1,5,118.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,30799,/car/69828837/volkswagen-t-cross-1-5-tsi-dsg-110-kw
+0,148.0,0,1,0,1,5,133.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,43949,/car/69828705/volkswagen-tiguan-1-5-tsi-dsg-110-kw
+93000,129.0,0,0,0,1,7,108.0,1499.0,1,2020,Peugeot,SUV / offroad,Part leather interior,28049,/car/69828651/peugeot-5008-bluehdi-130-eat8-allure-96-kw
+100,158.0,1,1,0,1,5,108.0,1482.0,2,2024,Hyundai,Sedans / saloons,Cloth interior,23849,/car/69827501/hyundai-i30-118-kw
+79032,188.0,0,0,0,1,5,145.0,1995.0,2,2020,BMW,Sedans / saloons,Other interior material,30949,/car/69825221/bmw-220d-gran-coupe-220d-140-kw
+10,148.0,0,1,0,1,5,118.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,31099,/car/69843662/volkswagen-t-cross-1-5-tsi-dsg-110-kw
+10,148.0,1,1,0,1,5,113.0,1498.0,3,2024,Škoda,SUV / offroad,Cloth interior,27749,/car/69843651/skoda-kamiq-1-5-tsi-ambition-110-kw
+10,129.0,1,1,0,1,5,141.0,1332.0,1,2024,Dacia,SUV / offroad,Cloth interior,25549,/car/69843593/dacia-duster-tce-130-96-kw
+10,148.0,1,1,0,1,5,122.0,1498.0,1,2024,Volkswagen,Station Wagon,Cloth interior,32149,/car/69843573/volkswagen-golf-variant-1-5-tsi-110-kw
+33,78.0,1,1,0,1,5,112.0,1197.0,1,2024,Hyundai,Hatchback,Cloth interior,17999,/car/69843559/hyundai-i20-1-2-58-kw
+15,212.0,0,2,1,1,5,124.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,40049,/car/69843515/hyundai-tucson-1-6-t-gdi-n-158-kw
+0,114.0,0,1,0,1,5,113.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,28499,/car/69843484/volkswagen-t-cross-1-0-tsi-dsg-85-kw
+0,78.0,1,1,0,1,5,112.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,17549,/car/69843359/hyundai-i20-1-2-58-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69843206/skoda-octavia-combi-110-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69843206/skoda-octavia-combi-110-kw
+16338,296.0,0,1,1,1,5,179.0,1984.0,3,2023,Volkswagen,SUV / offroad,Part leather interior,40549,/car/69843113/volkswagen-t-roc-r-4motion-dsg-221-kw
+20,109.0,1,1,0,1,7,131.0,999.0,1,2024,Dacia,MPV,Cloth interior,25549,/car/69843056/dacia-jogger-tce-110-extreme-81-kw
+10,148.0,0,0,0,1,5,126.0,1968.0,1,2024,Volkswagen,MPV,Velour interior,35549,/car/69843051/volkswagen-golf-plus-dsg-110-kw
+8000,282.0,0,0,0,1,5,173.0,2925.0,1,2023,Mercedes-Benz,Sedans / saloons,Full leather interior,93199,/car/69842992/mercedes-benz-s-350d-l-210-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69842916/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69842916/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+2,114.0,1,1,0,1,5,122.0,999.0,1,2024,Seat,SUV / offroad,Cloth interior,26999,/car/69842902/seat-ateca-1-0-tsi-reference-85-kw
+10,90.0,0,1,0,1,5,140.0,999.0,1,2024,Dacia,Hatchback,Cloth interior,22899,/car/69842782/dacia-sandero-stepway-tce-90-expression-67-kw
+19333,109.0,1,1,0,1,5,125.0,999.0,1,2024,Dacia,Hatchback,Other interior material,21299,/car/69842781/dacia-sandero-stepway-tce-110-extreme-81-kw
+15,148.0,0,1,0,1,5,118.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,30049,/car/69842402/volkswagen-t-cross-1-5-tsi-dsg-110-kw
+27253,114.0,0,2,0,1,5,64.0,1490.0,1,2022,Toyota,Hatchback,Cloth interior,19349,/car/69842354/toyota-yaris-1-5-hybrid-business-85-kw
+14042,138.0,1,1,0,1,5,131.0,1332.0,3,2023,Renault,SUV / offroad,Part leather interior,23049,/car/69842306/renault-captur-140-techno-103-kw
+10,188.0,0,1,1,1,5,144.0,1984.0,1,2024,Škoda,SUV / offroad,Cloth interior,43249,/car/69842298/skoda-karoq-2-0-tsi-4x4-dsg-sportline-140-kw
+19248,74.0,1,1,0,1,5,93.0,1199.0,3,2021,Opel,Hatchback,Cloth interior,14749,/car/69842281/opel-corsa-1-2-edition-55-kw
+10,190.0,0,0,1,1,5,117.0,1968.0,1,2024,Škoda,Station Wagon,Part leather interior,47999,/car/69842250/skoda-superb-combi-2-0-tdi-4x4-dsg-142-kw
+34612,99.0,0,1,0,1,5,99.0,1199.0,3,2022,Peugeot,Hatchback,Other interior material,18299,/car/69842212/peugeot-208-100-74-kw
+0,114.0,1,1,0,1,5,113.0,999.0,1,2024,Škoda,Hatchback,Cloth interior,24899,/car/69842208/skoda-scala-1-0-tsi-85-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69841821/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+20,295.0,0,2,1,1,5,42.0,1984.0,1,2024,Audi,SUV / offroad,Other interior material,70999,/car/69841821/audi-q5-50-tfsie-quattro-s-line-sportback-220-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,37399,/car/69841652/skoda-octavia-combi-2-0-tdi-110-kw
+53122,127.0,1,1,0,1,5,104.0,1373.0,2,2021,Suzuki,SUV / offroad,Other interior material,19849,/car/69841626/suzuki-vitara-1-4-95-kw
+15,89.0,1,1,0,1,5,120.0,999.0,1,2024,Renault,Hatchback,Cloth interior,18649,/car/69841515/renault-clio-tce-90-66-kw
+5,118.0,1,1,0,1,5,134.0,999.0,2,2022,Jeep,SUV / offroad,Cloth interior,27299,/car/69841326/jeep-renegade-1-0-limited-88-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,1,2024,Jeep,SUV / offroad,Cloth interior,26049,/car/69841240/jeep-avenger-1-2-summit-74-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,1,2024,Jeep,SUV / offroad,Cloth interior,26049,/car/69841240/jeep-avenger-1-2-summit-74-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,1,2024,Jeep,SUV / offroad,Cloth interior,26049,/car/69841240/jeep-avenger-1-2-summit-74-kw
+14963,68.0,1,1,0,0,4,88.0,999.0,2,2023,Fiat,Hatchback,Other interior material,15649,/car/69841186/fiat-500-1-0-51-kw
+44000,123.0,1,1,0,1,5,119.0,998.0,1,2021,Ford,SUV / offroad,Other interior material,17749,/car/69841076/ford-ecosport-1-0-ecoboost-titanium-92-kw
+10,148.0,0,1,0,1,5,116.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,29999,/car/69841005/skoda-kamiq-1-5-tsi-dsg-110-kw
+10,123.0,1,1,0,1,5,151.0,999.0,1,2024,Ford,MPV/VAN,Cloth interior,27599,/car/69840929/ford-tourneo-courier-titanium-92-kw
+2,158.0,0,1,0,1,5,148.0,1598.0,1,2024,Kia,SUV / offroad,Cloth interior,31749,/car/69840910/kia-sportage-1-6-t-gdi-vision-118-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35149,/car/69840894/skoda-octavia-combi-2-0-tdi-110-kw
+20,90.0,0,1,0,1,5,140.0,999.0,1,2024,Dacia,Hatchback,Other interior material,23299,/car/69840799/dacia-sandero-stepway-extreme-67-kw
+10,329.0,0,1,1,1,5,165.0,1984.0,1,2024,Audi,Sedans / saloons,Part leather interior,52249,/car/69840676/audi-s3-2-0-tfsi-quattro-sportback-245-kw
+2,153.0,0,1,0,1,5,108.0,999.0,1,2024,Ford,Station Wagon,Cloth interior,30149,/car/69840554/ford-focus-1-0-st-line-114-kw
+10,188.0,0,1,1,1,5,175.0,1984.0,1,2024,Cupra,SUV / offroad,Cloth interior,40049,/car/69840363/cupra-ateca-2-0-tsi-4drive-dsg-140-kw
+15,90.0,1,1,0,1,5,126.0,999.0,1,2024,Dacia,Hatchback,Cloth interior,21299,/car/69840222/dacia-sandero-tce-90-expression-67-kw
+15,158.0,1,1,0,1,5,139.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,32949,/car/69840211/hyundai-tucson-1-6-t-gdi-118-kw
+15,158.0,1,1,0,1,5,139.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,32949,/car/69840211/hyundai-tucson-1-6-t-gdi-118-kw
+20,148.0,0,1,0,1,5,116.0,1498.0,3,2024,Škoda,SUV / offroad,Cloth interior,30499,/car/69840206/skoda-kamiq-1-5-tsi-dsg-monte-carlo-110-kw
+153464,168.0,0,0,0,1,5,158.0,2143.0,1,2019,Mercedes-Benz,Station Wagon,Part leather interior,17849,/car/69840189/mercedes-benz-cla-220-shooting-brake-d-urban-125-kw
+15,148.0,0,1,0,1,5,117.0,1498.0,1,2024,Škoda,Station Wagon,Cloth interior,36099,/car/69840187/skoda-octavia-combi-1-5-tsi-dsg-110-kw
+10,129.0,1,1,0,1,5,141.0,1199.0,1,2024,Dacia,SUV / offroad,Cloth interior,29299,/car/69840158/dacia-duster-tce-130-journey-96-kw
+2,122.0,1,1,0,1,5,108.0,999.0,1,2024,Ford,Station Wagon,Cloth interior,26449,/car/69837418/ford-focus-1-0-titanium-91-kw
+15,148.0,0,1,0,1,5,118.0,1498.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,30799,/car/69837246/volkswagen-t-cross-1-5-tsi-dsg-110-kw
+10,337.0,0,0,1,1,5,185.0,2967.0,1,2023,Audi,SUV / offroad,Full leather interior,73199,/car/69836367/audi-sq5-tdi-quattro-s-line-sportback-251-kw
+10,99.0,1,1,0,1,5,129.0,1199.0,1,2024,Jeep,SUV / offroad,Other interior material,24699,/car/69836247/jeep-avenger-1-2-74-kw
+90500,103.0,1,0,0,1,5,167.0,1995.0,1,2021,Ford,Cargo VAN,Cloth interior,20299,/car/69836233/ford-transit-custom-l1h1-2-0-tdci-trend-77-kw
+20,156.0,0,1,0,1,5,141.0,1333.0,1,2024,Renault,SUV / offroad,Part leather interior,34999,/car/69836173/renault-austral-116-kw
+10,129.0,0,0,0,1,5,143.0,1499.0,1,2024,DS Automobiles,SUV / offroad,Cloth interior,40499,/car/69835972/ds-automobiles-7-crossback-bluehdi-130-96-kw
+10,68.0,1,1,0,1,4,116.0,999.0,1,2024,Fiat,Hatchback,Cloth interior,14599,/car/69835945/fiat-panda-51-kw
+79000,94.0,1,1,0,1,5,161.0,1368.0,2,2020,Fiat,MPV,Part leather interior,16199,/car/69835883/fiat-500l-cross-70-kw
+20,148.0,0,1,0,1,5,113.0,1498.0,3,2024,Cupra,Hatchback,Cloth interior,37599,/car/69835652/cupra-leon-1-5-etsi-dsg-110-kw
+15,212.0,0,2,0,1,5,109.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,39449,/car/69835609/hyundai-tucson-1-6-t-gdi-n-158-kw
+15,212.0,0,2,0,1,5,109.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,39449,/car/69835609/hyundai-tucson-1-6-t-gdi-n-158-kw
+44000,123.0,1,1,0,1,5,90.0,998.0,1,2021,Ford,Hatchback,Cloth interior,13399,/car/69835586/ford-fiesta-1-0-ecoboost-titanium-92-kw
+2,129.0,1,0,0,0,3,167.0,1995.0,1,2023,Ford,Cargo VAN,Cloth interior,38099,/car/69835440/ford-transit-l3h2-trend-96-kw
+99000,201.0,0,0,1,1,5,142.0,1968.0,2,2020,Audi,SUV / offroad,Part leather interior,32549,/car/69835351/audi-q5-40-tdi-quattro-s-line-150-kw
+0,158.0,0,1,0,1,5,148.0,1598.0,3,2024,Kia,SUV / offroad,Part leather interior,36899,/car/69835121/kia-sportage-1-6-t-gdi-gt-line-dct-118-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69834976/skoda-octavia-combi-110-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,35449,/car/69834976/skoda-octavia-combi-110-kw
+20,90.0,0,1,0,1,5,140.0,999.0,1,2024,Dacia,Hatchback,Other interior material,23299,/car/69834785/dacia-sandero-stepway-extreme-67-kw
+10,177.0,0,1,1,1,5,129.0,1598.0,3,2024,Hyundai,SUV / offroad,Cloth interior,35199,/car/69834704/hyundai-tucson-1-6-n-dct-132-kw
+15,138.0,1,2,0,1,5,108.0,1482.0,1,2024,Hyundai,Sedans / saloons,Cloth interior,26199,/car/69834691/hyundai-i30-t-gdi-103-kw
+15,138.0,1,2,0,1,5,108.0,1482.0,1,2024,Hyundai,Sedans / saloons,Cloth interior,26199,/car/69834691/hyundai-i30-t-gdi-103-kw
+10,109.0,1,1,0,1,7,131.0,999.0,1,2024,Dacia,MPV,Cloth interior,26049,/car/69834634/dacia-jogger-tce-81-kw
+10,109.0,1,1,0,1,7,131.0,999.0,1,2024,Dacia,MPV,Cloth interior,26049,/car/69834634/dacia-jogger-tce-81-kw
+2,129.0,1,0,0,0,3,167.0,1995.0,1,2023,Ford,Cargo VAN,Cloth interior,38649,/car/69834510/ford-transit-l3h2-trend-96-kw
+0,129.0,0,1,0,1,5,109.0,1199.0,1,2024,Peugeot,SUV / offroad,Part leather interior,28599,/car/69834342/peugeot-2008-96-kw
+10,138.0,0,1,0,1,5,108.0,1482.0,1,2024,Hyundai,Station Wagon,Cloth interior,28949,/car/69833922/hyundai-i30-kombi-1-5-t-gdi-n-line-dct-103-kw
+10,109.0,1,1,0,1,5,109.0,999.0,1,2024,Seat,SUV / offroad,Cloth interior,23049,/car/69833911/seat-arona-1-0-tsi-fr-81-kw
+10,282.0,0,0,1,1,5,184.0,2967.0,1,2024,Volkswagen,SUV / offroad,Full leather interior,80799,/car/69833811/volkswagen-touareg-3-0-tdi-4motion-210-kw
+20,138.0,1,1,0,1,5,142.0,1482.0,1,2024,Kia,Station Wagon,Part leather interior,28599,/car/69833803/kia-ceed-sportswagon-edition-103-kw
+140000,118.0,1,0,0,1,5,118.0,1499.0,1,2021,Ford,SUV / offroad,Other interior material,17249,/car/69833802/ford-puma-1-5-ecoblue-titanium-88-kw
+5820,68.0,1,1,0,0,4,88.0,999.0,2,2023,Fiat,Hatchback,Other interior material,15649,/car/69833773/fiat-500-1-0-51-kw
+128800,148.0,0,0,0,1,5,113.0,1968.0,1,2021,Volkswagen,Station Wagon,Other interior material,21849,/car/69833771/volkswagen-passat-variant-2-0-tdi-business-dsg-110-kw
+10,123.0,1,1,0,1,5,151.0,999.0,1,2024,Ford,MPV/VAN,Cloth interior,27599,/car/69833731/ford-tourneo-courier-titanium-92-kw
+0,114.0,0,1,0,1,5,113.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,28499,/car/69833730/volkswagen-t-cross-1-0-tsi-dsg-85-kw
+10,188.0,0,1,0,1,5,126.0,1498.0,1,2024,Cupra,SUV / offroad,Cloth interior,39949,/car/69833723/cupra-formentor-140-kw
+65000,103.0,1,0,0,1,5,188.0,1995.0,1,2021,Ford,Cargo VAN,Cloth interior,23049,/car/69833706/ford-transit-l2h2-2-0-trend-77-kw
+5,196.0,0,1,1,1,5,136.0,1598.0,3,2024,Hyundai,SUV / offroad,Cloth interior,39449,/car/69833618/hyundai-kona-1-6-t-gdi-dct-146-kw
+0,166.0,0,1,1,1,5,169.0,2498.0,3,2024,Subaru,Station Wagon,Full leather interior,41599,/car/69833584/subaru-outback-2-5-124-kw
+22000,181.0,1,1,0,0,2,156.0,1998.0,1,2020,Mazda,Cargo VAN,Other interior material,31999,/car/69833572/mazda-mx-5-skyactiv-g-184-135-kw
+15,89.0,1,1,0,1,5,135.0,999.0,1,2024,Dacia,Sedans / saloons,Cloth interior,19749,/car/69833485/dacia-logan-66-kw
+15,148.0,1,1,1,1,5,141.0,1598.0,1,2024,Hyundai,SUV / offroad,Cloth interior,33499,/car/69833455/hyundai-tucson-110-kw
+10,138.0,0,1,0,1,5,108.0,1482.0,1,2024,Hyundai,Station Wagon,Cloth interior,28949,/car/69833452/hyundai-i30-kombi-1-5-t-gdi-n-line-dct-103-kw
+20,148.0,0,0,1,1,5,144.0,1968.0,1,2024,Škoda,SUV / offroad,Cloth interior,44249,/car/69833444/skoda-karoq-2-0-tdi-4x4-dsg-sportline-110-kw
+0,114.0,1,1,0,1,5,113.0,999.0,1,2024,Škoda,Hatchback,Cloth interior,24899,/car/69833414/skoda-scala-1-0-tsi-85-kw
+17200,127.0,1,1,0,1,5,120.0,1373.0,1,2023,Suzuki,SUV / offroad,Cloth interior,20949,/car/69833401/suzuki-sx4-s-cross-s-cross-1-4-hybrid-comfort-95-kw
+10,98.0,0,1,0,1,5,111.0,998.0,3,2024,Hyundai,Sedans / saloons,Cloth interior,27499,/car/69833360/hyundai-i30-73-kw
+10,329.0,0,1,1,1,5,165.0,1984.0,3,2024,Volkswagen,Hatchback,Cloth interior,47699,/car/69833307/volkswagen-golf-r-4motion-dsg-245-kw
+0,166.0,0,1,1,1,5,169.0,2498.0,3,2024,Subaru,Station Wagon,Full leather interior,41599,/car/69832983/subaru-outback-2-5-124-kw
+10,153.0,0,1,0,1,5,108.0,999.0,1,2024,Ford,Station Wagon,Cloth interior,31649,/car/69832934/ford-focus-1-0-mhev-114-kw
+16900,109.0,1,1,0,1,5,166.0,1199.0,3,2023,Peugeot,MPV/VAN,Other interior material,24149,/car/69832907/peugeot-rifter-puretech-110-81-kw
+15,148.0,0,1,0,1,5,117.0,1498.0,1,2024,Škoda,Station Wagon,Cloth interior,36099,/car/69832739/skoda-octavia-combi-1-5-tsi-dsg-110-kw
+10,148.0,0,1,0,1,5,116.0,1498.0,1,2024,Škoda,SUV / offroad,Cloth interior,30799,/car/69832732/skoda-kamiq-1-5-tsi-dsg-monte-carlo-110-kw
+0,78.0,1,1,0,1,5,112.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,18099,/car/69832682/hyundai-i20-1-2-58-kw
+18000,94.0,1,0,0,1,5,106.0,1248.0,2,2024,Fiat,SUV / offroad,Other interior material,21049,/car/69828549/fiat-500x-1-3-multijet-70-kw
+10,148.0,0,0,0,1,5,100.0,1968.0,1,2024,Škoda,Station Wagon,Cloth interior,37399,/car/69828454/skoda-octavia-combi-2-0-tdi-110-kw
+0,138.0,0,1,0,1,5,143.0,1482.0,3,2024,Kia,Station Wagon,Cloth interior,26799,/car/69828297/kia-ceed-sportswagon-1-5-t-gdi-103-kw
+15,78.0,1,1,0,1,5,105.0,1197.0,1,2024,Hyundai,Hatchback,Cloth interior,18699,/car/69828193/hyundai-i10-1-2-58-kw
+8200,148.0,0,1,0,1,5,119.0,1498.0,1,2023,Volkswagen,Hatchback,Cloth interior,28349,/car/69828188/volkswagen-golf-dsg-110-kw
+2,129.0,1,0,0,0,3,167.0,1995.0,1,2023,Ford,Cargo VAN,Cloth interior,38649,/car/69828075/ford-transit-l3h2-trend-96-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69827989/volkswagen-taigo-1-0-tsi-dsg-85-kw
+10,114.0,0,1,0,1,5,111.0,999.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,26849,/car/69827989/volkswagen-taigo-1-0-tsi-dsg-85-kw
+50441,118.0,1,1,0,1,5,125.0,998.0,2,2019,Hyundai,SUV / offroad,Full leather interior,19499,/car/69827905/hyundai-kona-1-0-t-gdi-88-kw
+10,123.0,1,1,0,1,5,151.0,999.0,1,2024,Ford,MPV/VAN,Cloth interior,27599,/car/69827846/ford-tourneo-courier-titanium-92-kw
+10,98.0,0,1,0,1,5,111.0,998.0,3,2024,Hyundai,Sedans / saloons,Cloth interior,27499,/car/69827843/hyundai-i30-73-kw
+0,78.0,1,1,0,1,5,112.0,1197.0,3,2024,Hyundai,Hatchback,Cloth interior,17549,/car/69827615/hyundai-i20-1-2-58-kw
+15500,148.0,0,1,0,1,5,116.0,1498.0,1,2023,Škoda,Hatchback,Cloth interior,28149,/car/69827602/skoda-scala-monte-carlo-110-kw
+10,190.0,0,0,1,1,5,143.0,1968.0,1,2024,Volkswagen,SUV / offroad,Cloth interior,47299,/car/69827548/volkswagen-tiguan-4motion-dsg-142-kw
+105000,161.0,0,0,0,1,5,108.0,1968.0,1,2022,Audi,Station Wagon,Cloth interior,34349,/car/69827378/audi-a4-35-tdi-s-tronic-avant-120-kw
+10,296.0,0,1,0,1,5,151.0,1984.0,3,2024,Volkswagen,Hatchback,Cloth interior,46649,/car/69827158/volkswagen-golf-gti-clubsport-dsg-221-kw
+8,123.0,1,1,0,1,5,99.0,998.0,1,2024,Ford,SUV / offroad,Cloth interior,31299,/car/69827118/ford-puma-1-0-ecoboost-st-line-92-kw
+17000,148.0,0,1,0,1,5,143.0,1498.0,3,2023,Škoda,SUV / offroad,Full leather interior,37699,/car/69826387/skoda-kodiaq-tsi-act-dsg-style-110-kw
+69990,94.0,1,1,0,1,5,110.0,999.0,3,2021,Volkswagen,Hatchback,Other interior material,15799,/car/69826294/volkswagen-polo-1-0-tsi-70-kw
+36000,306.0,0,1,1,1,5,165.0,1984.0,2,2022,Audi,Sedans / saloons,Part leather interior,41299,/car/69825966/audi-s3-2-0-tfsi-quattro-s-line-228-kw
+80000,129.0,0,0,0,1,5,108.0,1499.0,2,2021,Peugeot,SUV / offroad,Cloth interior,22449,/car/69825946/peugeot-3008-bluehdi-active-96-kw
+30385,74.0,1,1,0,1,5,120.0,1084.0,3,2022,Ford,Hatchback,Other interior material,16099,/car/69824931/ford-fiesta-1-1-55-kw
+60064,109.0,1,1,0,1,5,121.0,999.0,3,2023,Seat,SUV / offroad,Other interior material,22699,/car/69824911/seat-ateca-1-0-tsi-style-81-kw
+45590,99.0,1,1,0,1,5,105.0,1199.0,3,2021,Peugeot,SUV / offroad,Other interior material,16749,/car/69824905/peugeot-2008-1-2-puretech-74-kw
+119000,148.0,1,0,0,1,5,125.0,1968.0,2,2020,Volkswagen,SUV / offroad,Cloth interior,25149,/car/69823537/volkswagen-tiguan-2-0-tdi-110-kw
+39995,94.0,1,0,0,1,5,138.0,1461.0,1,2022,Mercedes-Benz,Cargo VAN,Cloth interior,26649,/car/69823516/mercedes-benz-citan-cdi-tourer-70-kw
+117962,114.0,0,0,0,1,5,128.0,1460.0,2,2020,Mercedes-Benz,MPV,Other interior material,24249,/car/69823362/mercedes-benz-b-180-d-85-kw
+72490,188.0,0,0,1,1,5,154.0,2140.0,3,2022,Alfa Romeo,SUV / offroad,Other interior material,35699,/car/69823214/alfa-romeo-stelvio-2-2-diesel-140-kw
+78423,150.0,1,1,0,1,5,153.0,1598.0,3,2022,Kia,SUV / offroad,Other interior material,22649,/car/69823210/kia-sportage-1-6-gdi-112-kw
+14178,201.0,0,2,0,1,5,31.0,1400.0,3,2022,Audi,Sedans / saloons,Other interior material,31999,/car/69822996/audi-a3-40-tfsie-s-line-sportback-150-kw
+82602,257.0,0,2,0,1,5,24.0,1480.0,3,2022,Lynk & Co,SUV / offroad,Other interior material,24199,/car/69822695/lynk-co-01-phev-192-kw
+76672,188.0,0,0,0,1,5,118.0,1995.0,3,2021,BMW,Sedans / saloons,Other interior material,29549,/car/69822621/bmw-320d-advantage-140-kw
+111459,148.0,0,1,0,1,5,126.0,1498.0,3,2022,Cupra,SUV / offroad,Other interior material,22449,/car/69822461/cupra-formentor-1-5-tsi-dsg-110-kw
+52719,129.0,0,0,0,1,5,108.0,1500.0,1,2021,Peugeot,SUV / offroad,Other interior material,26349,/car/69822304/peugeot-5008-bluehdi-eat8-96-kw
+29960,138.0,1,1,0,1,5,121.0,1333.0,3,2023,Renault,Hatchback,Other interior material,18599,/car/69822046/renault-clio-tce-techno-103-kw
+89000,174.0,0,1,1,1,5,170.0,1591.0,2,2019,Hyundai,SUV / offroad,Part leather interior,22999,/car/69821800/hyundai-tucson-4wd-n-line-130-kw
+50000,129.0,1,1,0,1,5,150.0,1395.0,2,2020,Volkswagen,Cargo VAN,Cloth interior,24699,/car/69821548/volkswagen-caddy-1-4-tsi-comfortline-96-kw
+43000,168.0,0,1,1,1,5,190.0,1368.0,1,2020,Jeep,SUV / offroad,Full leather interior,23599,/car/69821457/jeep-compass-1-4-125-kw
